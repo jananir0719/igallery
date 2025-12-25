@@ -179,7 +179,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 <img width="910" height="472" alt="image" src="https://github.com/user-attachments/assets/78b4935e-2cd4-49cc-b1fe-dd31f72a85f4" />
-![Uploading image.png…]()
+<img width="897" height="721" alt="image" src="https://github.com/user-attachments/assets/6ea7941e-e15b-45b2-a5fc-599d6a4f07e8" />
+
 
 
 ## RESULT:
